@@ -26,7 +26,7 @@
 </head>
 <body>
 
-    <?php require 'navbar.php'; ?>    
+    <?php require 'navbar.php'; ?>
         <!-- CONTAINER -->
     <div class="ui container" ng-app="myApp">
     <div class="ui grid">
@@ -36,7 +36,7 @@
                <h1 class="ui header font">{{ item.item }}</h1>
                 <a class="ui tag label" ng-repeat="keywords in item.keywords">{{ keywords }}</a>
              </p>
-               <p style="position:absolute;right:55px;top: 120px;" class="font">共1同參與人數：{{ item.joined }} 人</p><img src="people.png" style="position:absolute;right:10px;top: 115px" width="25"> 
+               <p style="position:absolute;right:55px;top: 120px;" class="font">共同參與人數：{{ item.joined }} 人</p><img src="people.png" style="position:absolute;right:10px;top: 115px" width="25"> 
           </div>
        </div>
 </body>
