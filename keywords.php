@@ -30,6 +30,7 @@
                                 <a href="#" dropdown-prop="title">程式設計<i class="dropdown-icon"></i></a>
                                 <!--List Items-->
                                 <ul class="dropdown-list-items">
+                                    <li><a href="kwd_code_all.php">所有檔案</a></li>
                                     <li><a href="#">語音檔</a></li>
                                     <li><a href="#">圖片檔</a></li>
                                     <li><a href="#">文字檔</a></li>

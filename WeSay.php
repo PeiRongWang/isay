@@ -9,7 +9,7 @@
     <script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <script src="assets/semantic.min.js"></script>
     <link rel="stylesheet" href="assets/style.css">
-     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/<angula></angula>rjs/1.6.4/angular.min.js"></script>
      <script src="assets/container.js"></script>
      <style>
         @font-face {
