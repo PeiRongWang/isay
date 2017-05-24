@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <title>Keywords - I say</title>
@@ -10,78 +11,37 @@
     <script src="assets/semantic.min.js"></script>
     <link rel="stylesheet" href="assets/style.css">
 </head>
+
 <body>
 
-<?php require 'navbar.php'; ?>
+    <?php require 'navbar.php'; ?>
 
     <!-- CONTAINER -->
     <div class="ui container">
-       
+
         <div class="ui grid">
-            <div class="four wide column">
+            <div class="four wide column"> 
                 <div class="ui segment">
-                    <div class="ui relaxed divided list">
-                         <div class="item">
-
-                            
-                            <!--First List-->
-                            <li class="dropdown-list">                                
-                                <!--List Title-->
-                                <a href="#" dropdown-prop="title">程式設計<i class="dropdown-icon"></i></a>
-                                <!--List Items-->
-                                <ul class="dropdown-list-items">
-                                    <li><a href="kwd_code_all.php">所有檔案</a></li>
-                                    <li><a href="#">語音檔</a></li>
-                                    <li><a href="#">圖片檔</a></li>
-                                    <li><a href="#">文字檔</a></li>
-                                    <li><a href="#">影片檔</a></li>
-                                </ul>
-                            </li>
-                            
-                            <!--Second List-->
-                            <li class="dropdown-list">
-                                <!--List Title-->
-                                <a href="#" dropdown-prop="title">文書<i class="dropdown-icon"></i></a>
-                                <!--List Items-->
-                                <ul class="dropdown-list-items">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Contact</a></li>
-                                </ul>
-                            </li>
-                            
-                            <!--Third List-->
-                            <li class="dropdown-list">
-                                <!--List Title-->
-                                <a href="#" dropdown-prop="title">宿營<i class="dropdown-icon"></i></a>
-                                <!--List Items-->
-                                <ul class="dropdown-list-items">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Contact</a></li>
-                                </ul>
-                            </li>
-                            </ul>
-                            <script src="assets/kojac.js"></script>
-
-                                <script src="assets/index.js"></script>
-                        </div>
-                    </div>
+                    <a class="ui tag label" href="kwd_code_all.php">專題</a>
+                    <a class="ui red tag label">母親節</a>
+                    <a class="ui teal tag label">宿營</a>
+                    <a class="ui tag label">專題</a>
+                    <a class="ui red tag label">母親節</a>
+                    <a class="ui teal tag label">宿營</a>
                 </div>
+
             </div>
-                <div class="twelve wide column">
-                    <img class="ui huge image" src="wordcloud.png" alt="">
-                </div>
+            <div class="twelve wide column">
+                <img class="ui huge image" src="wordcloud.png" alt="">
+            </div>
         </div>
 
     </div>
     <!-- CONTAINER END -->
     <script>
-        
 
     </script>
 
 </body>
+
 </html>

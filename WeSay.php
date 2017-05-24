@@ -47,7 +47,7 @@
             <div class="eight wide column"></div>
             <div class="eight wide column">
                 <div class="ui icon input fluid">
-                    <input type="text" placeholder="說些什麼呢..." id="say_text" data-content="墾丁玩水、旅行、圍棋">
+                    <input type="text" placeholder="說些什麼呢..." id="say_text" data-content="記下些什麼吧、說話啊、打字阿">
                     <i class="send link icon" id="send"></i>
 
                 </div>
