@@ -117,3 +117,14 @@ span.rotate {
   color: #ffffff;
   background-color: #34495e;
 }
+#text {
+		color: #fff;
+		background-color: #337ab7;
+		text-transform: capitalize;
+		margin: 0;
+		padding: 15px 0;
+    text-align:center;
+	}
+  .item{
+    color: white;
+  }

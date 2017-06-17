@@ -1,4 +1,5 @@
 <div class="ui secondary pointing menu navbar">
+    
     <a class="item" href="index.php">
         I say
     </a>
@@ -8,7 +9,7 @@
     <a class="item" href="WeSay.php">
         We say
     </a>
-        <a class="item">
+    <a class="item">
        TimeLine
     </a>
 

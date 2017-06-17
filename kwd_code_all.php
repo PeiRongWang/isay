@@ -32,7 +32,7 @@
               $('.url.example .ui.embed').embed();
             </script>
             <p>
-              <div class="ui embed" data-url="https://www.youtube.com/embed/O6Xo21L0ybE" data-placeholder="/images/bear-waving.jpg"></div>
+             <iframe width="350" height="300" src="https://www.youtube.com/embed/0NLO7ciejT4" frameborder="0" allowfullscreen></iframe>
             </p>
           </div>
         </div>

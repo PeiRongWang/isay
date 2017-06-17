@@ -21,13 +21,13 @@
 
         <div class="ui grid">
             <div class="four wide column"> 
-                <div class="ui segment">
-                    <a class="ui tag label" href="kwd_code_all.php">專題</a>
-                    <a class="ui red tag label">母親節</a>
-                    <a class="ui teal tag label">宿營</a>
-                    <a class="ui tag label">專題</a>
-                    <a class="ui red tag label">母親節</a>
-                    <a class="ui teal tag label">宿營</a>
+                <div class="ui segment" style="margin: 2px 2px 2px 2px;">
+                    <a class="ui pink large label" href="kwd_code_all.php">程式設計</a>
+                    <a class="ui red large label" style="margin: 2px 2px 2px 2px;">母親節</a>
+                    <a class="ui teal large label" style="margin: 2px 2px 2px 2px;">宿營</a> <br>
+                    <a class="ui large label" style="margin: 2px 2px 2px 2px;">專題</a>
+                    <a class="ui large green label" style="margin: 2px 2px 2px 2px;">畢業典禮</a>
+                    <a class="ui large blue label" >實習</a>
                 </div>
 
             </div>

@@ -39,15 +39,6 @@
                 </div>
                 <button class="fluid ui button"><i class="plus icon"></i> 新增日記</button>
             </div>
-            <div class="twelve wide column" ng-controller="myCtrl">
-                <div class="ui piled segment" ng-repeat="item in data">
-                    <p>
-                        <h1 class="ui header">{{ item.item }}</h1>
-                        <a class="ui tag label" ng-repeat="keywords in item.keywords">{{ keywords }}</a>
-                    </p>
-                    <p style="position:absolute;right:55px;top: 120px;">共同參與人數：{{ item.joined }} 人</p><img src="people.png" style="position:absolute;right:10px;top: 115px" width="25">
-                </div>
-            </div>
         </div>
     </div>
     <!-- CONTAINER END -->
