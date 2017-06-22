@@ -18,12 +18,12 @@ $scope.content = [
   {
     "title": "文書",
     "type": 1,
-    "descriptions": "1.請各專題組於106年6月8日(四)17點前繳交1頁專題簡介電子檔至系辦：簡介請包含以下三項：(1)動機。(2)使用技術。(3)預期成果。 2.請各專題組於106年6月22日(四)中午12點前繳交3本書面計畫書及一份簡報檔案至系辦並測試無誤，為維持公平原則起見，計畫書及簡報內容不可出現專題指導老師姓名。"
+    "descriptions": "1. 請各專題組於106年6月8日(四)17點前繳交1頁專題簡介電子檔至系辦：簡介請包含以下三項<br/>(1)動機。<br/>(2)使用技術。<br/>(3)預期成果。<br/>2. 請各專題組於106年6月22日(四)中午12點前繳交3本書面計畫書及一份簡報檔案至系辦並測試無誤，為維持公平原則起見，計畫書及簡報內容不可出現專題指導老師姓名。"
   },
   {
     "title": "程式設計",
     "type": 1,
-    "descriptions": '<iframe width="350" height="300" src="https://www.youtube.com/embed/0NLO7ciejT4" frameborder="0" allowfullscreen></iframe>'
+    "descriptions": '<iframe width="640" height="360" src="https://www.youtube.com/embed/0NLO7ciejT4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>'
   },
   {
     "title": "場地",
@@ -35,12 +35,12 @@ $scope.content = [
     "type": 2,
     "descriptions": '年化行然信不老言陸保看入大優車上病別要與，嚴過法方頭。花稱風我親？出依去？他海時計開景問工生，不以提……農有相次先自些開著得成裝不參能的……的前熱務識證對事學致，次出各醫人入反都三、節觀日八道學選行，外北年可說流：策畫百十活海性正資且角是國？藝全現發笑，點興那食心坡生頭個美是會女的在不地爸注獨利死的屋目議了寫自年學入如血完處，並達包。常藝苦酒要代；本者落人、教過場親學使未較象人開……物雖女。落管本河公後。難解的術待府命情，我企題好子起會心負沒心，向處果般，景制英溫如管然飛最文眾清手收民過待才那落然或文好仍為相。'
   }
-]; 
+];
 
     $scope.data = [
   {
     "item": "專題初審",
-    "type":1,    
+    "type":1,
     "keywords": [
       "程式設計",
       "中原",
@@ -51,7 +51,7 @@ $scope.content = [
   },
   {
     "item": "宿營企劃",
-    "type": 2, 
+    "type": 2,
     "keywords": [
       "場地",
       "隊輔",
@@ -62,7 +62,7 @@ $scope.content = [
   },
   {
     "item": "母親節",
-    "type": 3, 
+    "type": 3,
     "keywords": [
       "禮物",
       "餐廳",
