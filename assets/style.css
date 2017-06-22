@@ -110,6 +110,11 @@ span.rotate {
   background-color: cadetblue !important;
 
 }
+
+.navbar a {
+  color: #FFF !important;
+}
+
 @import url(http://fonts.googleapis.com/css?family=Lato);
 .body {
   font-size: 20px;
@@ -127,4 +132,8 @@ span.rotate {
 	}
   .item{
     color: white;
+  }
+  #box{
+    position:absolute;
+    right: 10px;
   }

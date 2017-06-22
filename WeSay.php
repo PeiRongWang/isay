@@ -32,7 +32,7 @@
             <div class=" eight wide column" ng-controller="myCtrl">
                 <div class="ui piled segment" ng-repeat="item in data">
                     <p>
-                        <h1 class="ui header font">{{ item.item }}</h1>
+                        <a href="wesay_content.php?id={{$index+1}}"><h1 class="ui header font">{{ item.item }}</h1></a>
                         <a class="ui tag label" ng-repeat="keywords in item.keywords">{{ keywords }}</a>
                     </p>
                     <p style="position:absolute;right:55px;top: 120px;" class="font">共同參與人數：{{ item.joined }} 人</p><img src="people.png" style="position:absolute;right:10px;top: 115px" width="25">

@@ -25,7 +25,7 @@
             <div class="four wide column" ng-controller="myCtrl">
                 <div class="ui card">
                     <div class="image">
-                        <img src="https://semantic-ui.com/images/avatar2/large/kristy.png">
+                        <img src="pei_rong.jpg">
                     </div>
                     <div class="content">
                         <a class="header">{{ userInfo.name }}</a>
@@ -39,8 +39,12 @@
                 </div>
                 <button class="fluid ui button"><i class="plus icon"></i> 新增日記</button>
             </div>
+            <div class="twelve wide column" id="box">
+                <img src="circlepic01.png" width="80%">
+            </div>
         </div>
     </div>
+    
     <!-- CONTAINER END -->
 
 </body>
